@@ -1,4 +1,4 @@
-# MERN Dashboard Project
+# Dashboard Project in MERN
 
 ![Dashboard Screenshot](client/public/readme_assets/screenshot.png)
 
